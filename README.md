@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there 👋, I'm Seshu
+
+I’m a Microsoft Professional (.NET, XAML & Azure) with 10+ years of experience across diverse organizational domains, and has extensive experience in working with technologies like C#, Python, Xamarin, ASP.NET MVC, Web API AngularJS and various Azure services.
+
+My interests range from programming, photography, technology, reading and music. I try to blog whenever I learn something new or have something to say here [](https://seshuk.com/).
+
+If you’d like to get in touch, feel free to say hello through any of the social links below.
+ 
+- 🐦 I tweet [@seshuk](https://twitter.com/seshuk)
 
 <!--
 **seshuk/seshuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
