@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/seshuk/seshuk/master/github_bkg.jpeg)
+![](https://raw.githubusercontent.com/seshuk/seshuk/master/github_bkg.jpg)
 ### Hi there 👋, I'm Seshu
 
 I’m a Microsoft Professional (.NET, XAML & Azure) with 10+ years of experience across diverse organizational domains, and has extensive experience in working with technologies like C#, Python, Xamarin, ASP.NET MVC, Web API AngularJS and various Azure services.
