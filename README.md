@@ -9,7 +9,7 @@ If you’d like to get in touch, feel free to say hello through any of the socia
  
 - 🐦 I tweet [@seshuk](https://twitter.com/seshuk)
 - 🔭 I’m currently working on .NET, AWS & Kubernetes
-- 🌱 I’m currently learning Kubernetes & AWS
+- 🌱 I’m currently learning AWS
 - 
 <!--
 **seshuk/seshuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
